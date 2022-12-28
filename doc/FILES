@@ -1,0 +1,7 @@
+Description of files in TNT-'doc' directory
+-------------------------------------------
+
+license			The GNU public license
+
+iface.doc               Documentation of the interface protocol used on
+			the UNIX-socket between TNT and DPBox

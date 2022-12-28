@@ -1,0 +1,13 @@
+#
+# Function-Key-File
+#
+# XX:text
+# XX::command
+#
+# '*' at end sends CR after a text
+#
+03::c db0blo-8
+04::c db0blo
+08::logb
+09::bli
+10::xbli
